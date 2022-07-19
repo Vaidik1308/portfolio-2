@@ -1,0 +1,89 @@
+html
+{
+    color: white;
+    background-color: black;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    text-align: center;
+}
+hr
+{
+    color: slategray;
+    opacity: 0.3;
+}
+/* Header */
+header h2
+{
+    font-size: 2rem;
+    display: inline-block;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.hh2
+{
+    font-size: 2.2rem;
+    color: red;
+    margin: 5px 10px;
+}
+nav li
+{
+    font-size: 1.2rem;
+    margin: 0 10px;
+    list-style: none;
+}
+nav ul
+{
+    display: flex;
+    justify-content: center;
+}
+/* a tag */
+a
+{
+    font-size: 1.4rem;
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    color: red;
+}
+/* main */
+/*..............*/
+/*Section 1*/
+.div1
+{
+    font-size: 3.5rem;
+    margin: 25px 20px;
+}
+.div1 h3
+{
+    display: inline-block;
+}
+.sec2 > h3
+{
+    font-size: 2rem;
+}
+.div2 > img
+{
+    width: 100%;
+    padding: 5px 5px;
+    border: solid black 5px;
+    border-radius: 15px;
+}
+.div3
+{
+    width: 100%;
+    text-align: center;
+}
+.dh3
+{
+    margin-left: 10px;
+    color: red;
+}
+/* Section 2 */
+
